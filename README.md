@@ -1,0 +1,2 @@
+# Ejercicio Pandas ecommerce
+ 
