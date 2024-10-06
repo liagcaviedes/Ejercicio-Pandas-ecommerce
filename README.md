@@ -9,7 +9,7 @@ The dataset consists of 10,000 rows and 14 columns, and each row corresponds to 
 
 The purpose of this project is to showcase the ability to handle and analyze large datasets using Python while producing meaningful insights from the data.
 
-## Table of Contents
+## Table of Contents
 - Project Objective
 - Dataset Description
 - Key Insights
