@@ -1,7 +1,7 @@
 
 # Ecommerce Purchases Data Analysis
 
-## Project Overview
+## Project Overview
 
 This project involves the analysis of a dataset containing simulated data from purchases made on an e-commerce platform, Amazon. The primary objective is to explore and answer various questions regarding the purchasing patterns, payment methods, customer details, and general insights using Pandas and NumPy libraries.
 
