@@ -2,11 +2,13 @@
 # Ecommerce Purchases Data Analysis
 
 ## Project Overview
+
 This project involves the analysis of a dataset containing simulated data from purchases made on an e-commerce platform, Amazon. The primary objective is to explore and answer various questions regarding the purchasing patterns, payment methods, customer details, and general insights using Pandas and NumPy libraries.
 
 The dataset consists of 10,000 rows and 14 columns, and each row corresponds to an individual purchase made on the platform. The columns provide information such as customer details, credit card information, purchase prices, job titles, email addresses, and more.
 
 The purpose of this project is to showcase the ability to handle and analyze large datasets using Python while producing meaningful insights from the data.
+
 ## Table of Contents
 - Project Objective
 - Dataset Description
